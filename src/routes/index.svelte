@@ -7,8 +7,10 @@
 </svelte:head>
 
 <main>
-  <h1 class="text-primary">Hello world!</h1>
-  <Counter />
+  <h1 class="text-primary">InterPlot Typesetting</h1>
+  <Counter /><br>
+  <Counter /><br>
+  <Counter /><br>
   <p>Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps. <i class="fas fa-heart fa-fw"></i></p>
 </main>
 
