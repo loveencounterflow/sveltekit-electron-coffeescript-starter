@@ -2,7 +2,7 @@
   "name": "electron-sveltekit",
   "description": "Electron, SvelteKit, Bootstrap 5 and FontAwesome",
   "author": "anonymous",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/electron.cjs",
   "private": true,
   "scripts": {
