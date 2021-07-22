@@ -23,7 +23,7 @@
 * https://fireship.io/snippets/svelte-electron-setup/
 * https://blog.stranianelli.com/sveltekit-and-electron-english/
 
-* https://github.com/Dax89/electron-sveltekit
+* This repo is a derivative of [Dax89/electron-sveltekit](https://github.com/Dax89/electron-sveltekit)
 
 * https://www.reddit.com/r/sveltejs/comments/mjb0oy/sveltekit_electron_and_bootstrap_5/
 
