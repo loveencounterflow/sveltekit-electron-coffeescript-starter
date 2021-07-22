@@ -1,12 +1,24 @@
-<script>
+<!-- <script>
   import Counter from "$lib/Counter.svelte";
+</script> -->
+
+<script lang=coffeescript>
+import Counter from "$lib/Counter.svelte";
+console.log "^343497^ helo from coffeescript"
+console.log "^343497^ coffeescript works!"
 </script>
+
+<!-- <script lang=potato>
+  import Counter from "$lib/Counter.svelte";
+  console.log( "helo from potato" );
+</script> -->
 
 <svelte:head>
   <title>Svelte Template</title>
 </svelte:head>
 
 <main>
+
   <h1 class="text-primary">InterPlot Typesetting</h1>
   <Counter /><br>
   <Counter /><br>
